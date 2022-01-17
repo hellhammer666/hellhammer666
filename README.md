@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hellhammer666
 - 👀 I’m interested in ... family, lifting and gaming.
-- 🌱 I’m currently learning ... Computer Science; Python analytics
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Cyber Security
+- 💞️ I’m looking to collaborate on ... All things CS
 - 📫 How to reach me ... gray.322@wright.edu
 
 <!---
